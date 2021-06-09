@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS13033</string>
+    <string name="textview_username">Username</string>
+    <string name="textview_email">Email</string>
+</resources>
