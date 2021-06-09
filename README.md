@@ -1,2 +1,2 @@
-# CSharp-Projects
-Some of the C# projects i have done during university years.
+# SMS13033-Android-Application
+An application i have created during carantine for educational and facilitation purposes.
